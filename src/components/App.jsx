@@ -35,7 +35,7 @@ export default function App() {
   };
 
   const total = countTotalFeedback();
-  console.log(total);
+  // console.log(total);
   const percent = countPositiveFeedbackPercentage();
   return (
     <>
